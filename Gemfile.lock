@@ -2,8 +2,9 @@ GEM
   remote: http://rubygems.org/
   specs:
     rack (1.6.4)
-    sapp (0.1.0)
-    simple_session (0.3.3)
+    sapp (0.3.0)
+      rack
+    simple_session (0.3.5)
       rack
 
 PLATFORMS
